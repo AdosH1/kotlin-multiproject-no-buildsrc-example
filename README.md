@@ -1,0 +1,1 @@
+# kotlin-multiproject-no-buildsrc-example
